@@ -14,6 +14,8 @@ This repository contains a quantitative pricing and risk-assessment model for fi
 * **Data Visualization:** Matplotlib, Seaborn
 * **APIs:** Yahoo Finance (`yfinance`)
 
+## Visualizing the Results
+![Live US Treasury Yield Curve](images/figure.png)
 ## Technical Insights
 The model effectively demonstrates the inverse relationship between interest rates and bond prices, highlighting duration risk. For example, in the current high-yield environment, the model correctly prices long-duration (16.5 years) infrastructure bonds at a deep discount (~$756 against a $1000 par value), illustrating the severe impact of duration risk compared to short-term corporate paper.
 

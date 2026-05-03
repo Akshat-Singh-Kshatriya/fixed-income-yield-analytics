@@ -19,15 +19,15 @@ The model effectively demonstrates the inverse relationship between interest rat
 
 ## Installation & Usage
 1. Clone the repository:
-   ```bash
+```bash
    git clone [https://github.com/Akshat-Singh-Kshatriya/fixed-income-yield-analytics.git](https://github.com/Akshat-Singh-Kshatriya/fixed-income-yield-analytics.git)
    cd fixed-income-yield-analytics
- ```
+```
 2. Install the Dependencies
-   ```bash
+```bash
 pip install -r requirements.txt
 ```
 3. Run the Model
-   ```bash
+```bash
 python fixed_income.py
 ```
